@@ -1,6 +1,7 @@
 # QR-code-generator-using-python
 QR code generator using pyqrcode and tkinter module in python
 
+
 Pyqrcode :- 
 
 The pyqrcode module is a QR code generator that is simple to use and written in pure python.
