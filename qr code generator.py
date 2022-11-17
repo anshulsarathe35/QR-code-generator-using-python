@@ -20,6 +20,7 @@ def CreateWidgets():
 
     root.imageLabel = Label(root, background="#800000")
     root.imageLabel.grid(row=2, column=1, columnspan=3, padx=5, pady=5)
+    
 
 
 def QRCodeGenerate():
